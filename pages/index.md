@@ -15,7 +15,7 @@ show_related: false
 
 ## ¿Qué es esto?
 
-<i>Code Maven</i> es un lugar para aquellos que quieren entrar al mercado de
+__Code Maven__ es un lugar para aquellos que quieren entrar al mercado de
 la alta tecnología o quieren avanzar en él.
 
 Yo soy Gabor, soy profesor de varios temas de alta tecnología y también un alumno
@@ -45,7 +45,9 @@ Bueno, el objetivo de los programas y aplicaciones es ayudar a otros. Para
 hacerlo bien necesitamos entender a los usuarios de nuestra aplicación.
 
 
-<div class="main-content">
-</div>
+## Ultimas páginas
+
+{% latest limit=5 %}
+
 
 
