@@ -15,6 +15,8 @@ Configurar una página de GitHub.
 
 {% youtube id="JtYEtlR77D0" %}
 
+github-pages-con-laia-2021-05-20_1920x1080.mp4
+
 * [La pagina de Laia](https://laia92.github.io/)
 * [El repositorio en GitHub](https://github.com/LAIA92/laia92.github.io)
 * [Laia Asensio López en GitHub](https://github.com/laia92)

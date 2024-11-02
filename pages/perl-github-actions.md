@@ -15,6 +15,8 @@ Mejorar la librerìa de GitHub::Actions en Perl con [Juan J. Merelo](https://www
 
 {% youtube id="_TJhJChDfJA" %}
 
+perl-Github-Actions-2021-04-22_1920x1080.mp4
+
 * [MetaCPAN stats en Perl Weekly](https://perlweekly.com/metacpan.html)
 * [GitHub-Actions en MetaCPAN](https://metacpan.org/release/GitHub-Actions)
 * [Perl GitHub-Actions en GitHub](https://github.com/JJ/perl-GitHub-Actions)

@@ -63,7 +63,7 @@ authors:
 navbar:
   start:
     - path: /
-      title: Home
+      title: Casa
     - path: /tags/
       title: Tags
   end:
@@ -72,4 +72,4 @@ navbar:
     - path: /about
       title: About
 
-
+# search: Resultsos de buscada

@@ -13,6 +13,8 @@ Mejorar una libreria, Utilizar GitHub Actions con [JJ Merelo](https://www.linked
 
 {% youtube id="Vpbr9KbzI5s" %}
 
+perl-with-jjmerelo-2021-05-19_1920x1080.mp4
+
 * [Git-Repo-Commits](https://metacpan.org/release/Git-Repo-Commits)
 * [Git Commit](https://github.com/JJ/perl-git-commit)
 * [Gitmoji](https://gitmoji.dev/)
